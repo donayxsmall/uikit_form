@@ -1,0 +1,11 @@
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/uikit_form
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/donay/Documents/FIC3/EXERCISE/uikit_form/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
