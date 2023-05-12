@@ -15,10 +15,16 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="screenshot/button.png" alt="Button">
-<br>
-<em>Button</em>
+<p align="left">
+  <img src="screenshot/button.png" alt="Button">
+</p>
+<p align="left">
+  <em>Button</em>
+</p>
 
-<img src="screenshot/form_1.png" alt="Form">
-<br>
-<em>Form</em>
+<p align="right">
+  <img src="screenshot/outline.png" alt="Outline Button">
+</p>
+<p align="right">
+  <em>Outline Button</em>
+</p>
