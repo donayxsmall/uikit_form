@@ -1,8 +1,8 @@
-# Xsmall UIKIT
+# Xsmall UIKit
 
 A new Flutter project UIKIT.
 
-## Screenshoot Xsmall UIKIT
+## Screenshoot Xsmall UIKit
 
 |                            Button                             |                             Outline Button                             |
 | :-----------------------------------------------------------: | :--------------------------------------------------------------------: |
