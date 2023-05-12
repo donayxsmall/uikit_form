@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-|                          ScreenShoot                          |
-| :-----------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="screenshot/button.png" alt="Button" align="center"> | <img src="screenshot/outline.png" alt="Outline Button" align="center"> |
+| Gambar 1  
+| :------------------------------------: | :-------------------------------------: |
+| ![Deskripsi 1](screenshoot/button.png) | ![Deskripsi 2](screenshoot/outline.png) |
